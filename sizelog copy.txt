@@ -1,0 +1,16 @@
+/Volumes/X9 Pro/System Volume Information: 0.00 MB
+/Volumes/X9 Pro/.Spotlight-V100: 0.00 MB
+/Volumes/X9 Pro/.fseventsd: 9.90 MB
+/Volumes/X9 Pro/onedrive_cs: 3594.04 MB
+/Volumes/X9 Pro/code: 44.89 MB
+/Volumes/X9 Pro/Carolinas HP dec 2024: 412334.06 MB
+/Volumes/X9 Pro/.Trashes: 0.00 MB
+/Volumes/X9 Pro/email mailboxes: 28686.91 MB
+/Volumes/X9 Pro/h10surface3: 36523.22 MB
+/Volumes/X9 Pro/$RECYCLE.BIN: 0.00 MB
+/Volumes/X9 Pro/icloud-carolina-photos: 257894.86 MB
+/Volumes/X9 Pro/icloud-recordings: 74531.83 MB
+/Volumes/X9 Pro/green disk: 484969.75 MB
+
+FileNotFoundError: [Errno 2] No such file or directory: '/Volumes/X9 Pro/macbook-backup/documents/stureborg_com_bAckup/backup-12.19.2024_00-59-11_carolina 2/homedir/public_html/click/index.php'
+

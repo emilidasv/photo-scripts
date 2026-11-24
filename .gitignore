@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+duplicate_files_log.txt
+2007-2009.mbox/
